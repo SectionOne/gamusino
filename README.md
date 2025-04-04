@@ -1,0 +1,2 @@
+# gamusino
+ cazar gamusinos
